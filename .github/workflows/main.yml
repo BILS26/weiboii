@@ -14,4 +14,4 @@ jobs:
         username: lecheminduroi
         password: ICj%C4Gqymla4ggev^)Z
         server-dir: public_html/
-	 timeout: 90000
+	timeout: 90000
